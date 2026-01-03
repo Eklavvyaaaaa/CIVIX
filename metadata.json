@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CIVIX - AI Civic Issue Reporter",
+  "description": "An AI-powered web application for citizens to report local civic issues. Features automatic image recognition for categorizing issues and an AI assistant for community support.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
