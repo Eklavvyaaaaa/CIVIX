@@ -73,8 +73,6 @@ Strengthening trust between citizens and civic authorities
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/10OTBjMIMYRwp7OU2JRuxGkE-_SGs2wVF
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
